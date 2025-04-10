@@ -9,7 +9,7 @@ A header containing links to Gmail, Images, Apps, and Sign in, positioned in the
 
 A central body where you’ll find the Google logo, a search bar, and two buttons: “Google Search” and “I’m Feeling Lucky.”
 
-Some <div> elements showing the location and links similar to those found on Google’s website.
+Some elements showing the location and links similar to those found on Google’s website.
 
 The styling is handled via an external CSS stylesheet,
 which helps align elements, apply typography close to Google’s, and ensure a clean layout.
