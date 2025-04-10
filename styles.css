@@ -1,0 +1,169 @@
+html {
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+body {
+    background: #101218;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    gap: 2%;
+    cursor: pointer;
+    padding-top: 10px;
+    padding-right: 30px;
+}
+
+.signin {
+    height: 30px;
+    cursor: pointer;
+    border-radius: 70px;
+    background-color: #70e5f5;
+}
+
+.logo {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.header-nav {
+    justify-content: flex-end;
+}
+
+.search img {
+    padding-right: 5px;
+    width: 25px;
+    margin-left: 11px;
+    cursor: pointer;
+}
+
+.search {
+   height: 50px; 
+   display: flex;
+   justify-content: center;
+   margin-top: 100px;
+}
+
+.raccourci {
+    height: 150px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3%;
+}
+
+input {
+    height: 50px;
+    width: 600px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: #3f4454;
+    color: beige 
+}
+
+.icone {
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+    border-radius: 100%;
+}
+
+.icone img {
+    width: 30px;
+    height: 30px;
+}
+
+.lien {
+    display: flex;
+    color: white;
+    gap: 30px;
+}
+
+.googlesearch {
+    padding: 10px;
+    color: beige;
+    background-color: #3f4454;
+    cursor: pointer;
+    border-radius: 7px;
+}
+
+.lucky {
+    padding: 10px;
+    color: beige;
+    background-color: #3f4454;
+    cursor: pointer;
+    border-radius: 7px;
+}
+
+p {
+    color: white;
+    padding: 15px;
+}
+
+.Francais {
+    color: rgb(72, 220, 247);
+}
+
+.Francais:visited {
+    color: rgb(72, 220, 247);
+}
+
+.gs {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3%;
+    color: white;
+    padding-top: 15px;
+}
+
+.francais {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1%;
+    cursor: pointer;
+    font-size: smaller;
+}
+
+a:visited {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+.bottom {
+    background-color: rgb(32, 32, 34);
+    padding: 10px;
+}
+
+.between {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cadre {
+    background-color: transparent;
+    height: 50px;
+   justify-content: center;
+}
+
+.france {
+    background-color: rgb(32, 32, 34);
+    font-family: Arial, Helvetica, sans-serif;
+    color:beige;
+    padding: 10px;
+}
