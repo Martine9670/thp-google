@@ -1,17 +1,64 @@
-Clone of Google's Homepage in HTML/CSS
+# 🌐 Google Homepage Clone
 
-For this project, I created (or at least attempted to create) a simple replica of Google’s homepage using HTML and CSS.
-The goal was to recreate the page structure while following good web development practices.
+> A simple and clean replica of Google’s homepage, built with **HTML** and **CSS** for learning purposes.
 
-The page is made up of three main sections:
+---
 
-A header containing links to Gmail, Images, Apps, and Sign in, positioned in the top right corner.
+### 🛠️ Project Goal
 
-A central body where you’ll find the Google logo, a search bar, and two buttons: “Google Search” and “I’m Feeling Lucky.”
+Recreate the visual structure of the **Google homepage** to practice web development fundamentals:  
+- Positioning elements  
+- Using semantic HTML tags  
+- Styling with external CSS  
+- Following best practices (clean layout, responsive, well-organized)
 
-Some elements showing the location and links similar to those found on Google’s website.
+---
 
-The styling is handled via an external CSS stylesheet,
-which helps align elements, apply typography close to Google’s, and ensure a clean layout.
+### 🧱 Page Structure
 
-This project helped me understand the importance of HTML and CSS in building websites.
+The page is divided into **three main sections**:
+
+1. **🔝 Header**  
+   Contains links to *Gmail*, *Images*, *Apps*, and *Sign In*,  
+   all positioned in the top right corner, just like the original.
+
+2. **🔍 Main Body**  
+   Includes:
+   - Google’s logo (image)
+   - A search bar
+   - Two buttons: `Google Search` and `I'm Feeling Lucky`
+
+3. **🌍 Footer**  
+   Displays location information and links similar to those found on the real Google homepage.
+
+---
+
+### 🎨 Design & CSS
+
+- All layout and styling is handled via an **external CSS file**
+- Elements are aligned using **Flexbox**
+- Typography mimics Google’s clean design
+- Spacing, colors, and layout are kept simple to reflect the original
+
+---
+
+### 📚 What I Learned
+
+- The power and simplicity of HTML for building structure
+- How CSS can turn a raw layout into a clean interface
+- The importance of visual details (alignment, spacing, responsiveness)
+- A deeper appreciation for the complexity behind a *seemingly simple* page
+
+---
+
+### 👩‍💻 Author
+
+- **Martine PINNA**  
+- 🐙 GitHub: [Martine9670](https://github.com/Martine9670)  
+- 💬 Discord: Martine PINNA
+
+---
+
+### 📝 Notes
+
+> This project is purely educational and has no affiliation with Google Inc.
